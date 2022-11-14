@@ -1,0 +1,1 @@
+alert("Eres español? no? pues te jodes, arriba ESPAÑA")
